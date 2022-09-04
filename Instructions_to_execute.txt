@@ -1,0 +1,9 @@
+
+"AOS_Project.Gandham.ipynb" file to see the automated random inputs with sizes(100, 1000, 5000 and 10000) numbers.
+
+Inputs are randomely generated in the file.
+
+# Instructions to run the "AOS_Project.Gandham.ipynb" file.
+
+1. Open "AOS_Project.Gandham.ipynb" file.
+2. Click on "cell" and click "Run All" to see all the results of given inputs.
